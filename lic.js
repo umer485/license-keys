@@ -3,7 +3,7 @@
     "umerxd485licenseuplay",
     "umerxd486licenseuplay",
     "umerxd487licenseuplay",
-    "umerxd488licenseuplay",
+    "umerxd48licenseuplay",
     "umerxd489licenseuplay",
     "umerxd490licenseuplay",
     "umerxd491licenseuplay",
